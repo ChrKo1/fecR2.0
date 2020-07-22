@@ -1,14 +1,14 @@
 Package: fecR2.0
 Title: Fishing Effort Calculator in R
 Version: 0.2.0
-Authors@R: 
+Authors: 
     Christoph Konrad [aut,cre],
     Finlay Scott [aut, cre],
     Nuno Prista [aut],
     Thomas Reilly [aut]
 Authors@R: c(
 	 person(given = "Christoph", family = "Konrad", email = "christoph.konrad@ec.europa.eu", role = c("aut", "cre")),
-	person(given = "Finlay", family = "Scott", email = "finlay.scott@ec.europa.eu", role = c("aut", "cre")),
+	person(given = "Finlay", family = "Scott", email = "finlay.scott@ec.europa.eu", role = c("aut")),
     person(given = "Nuno", family = "Prista", email = "nuno.prista@slu.se", role = c("aut")),
     person(given = "Thomas", family = "Reilly", email = "Thomas.Reilly@gov.scot", role = c("aut")))
 Maintainer: Christoph Konrad <christoph.konrad@ec.europa.eu>
