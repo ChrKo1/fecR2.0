@@ -13,7 +13,7 @@ Authors@R: c(
     person(given = "Thomas", family = "Reilly", email = "Thomas.Reilly@gov.scot", role = c("aut")))
 Maintainer: Christoph Konrad <christoph.konrad@ec.europa.eu>
 Description: Calculates fishing effort following the DG MARE Ad-Hoc Workshops on Transversal Variables in Zagreb (2015) and Nicosia (2016). Updated in 2020 by CK.
-Depends: R (>= 4.0), data.table
+Depends: R (>= 3.6), data.table
 Suggests: knitr, testthat
 Imports: data.table, plyr, lubridate, methods
 License: EUPL
